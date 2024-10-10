@@ -1,0 +1,1 @@
+### Remove contents from a file. Like remove a word, a sentence, a line or a paragraph. 

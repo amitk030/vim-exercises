@@ -1,0 +1,40 @@
+{
+  "title": "Remove a word",
+  "details": {
+    "intro": {
+      "text": "start.md"
+    },
+    "steps": [
+      {
+        "title": "Delete a word",
+        "background": "background.sh",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Delete a sentence",
+        "background": "background.sh",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Delete a paragraph",
+        "background": "background.sh",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
+      },
+      {
+        "title": "Delete a line",
+        "background": "background.sh",
+        "text": "step4/text.md",
+        "verify": "step4/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

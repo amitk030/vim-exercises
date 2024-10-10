@@ -1,0 +1,21 @@
+cat <<EOF > article.txt
+India is a country of remarkable beauty, where diverse landscapes, rich cultural heritage, and vibrant traditions come together to create a truly unique experience. Stretching from the majestic Himalayas in the north to the pristine beaches of Goa and the Andaman Islands in the south, India offers a kaleidoscope of natural wonders. The country’s geography is as varied as it is stunning, with deserts, forests, mountains, rivers, and coastlines that showcase the awe-inspiring splendor of nature.
+
+In the northern region, the towering Himalayas provide a dramatic backdrop, offering breathtaking views, trekking opportunities, and spiritual retreats. Hill stations like Shimla, Manali, and Darjeeling attract tourists for their scenic beauty and cooler climates, providing a respite from the heat of the plains. The mighty Ganges River, considered sacred by millions, flows through the plains, nurturing the fertile lands of Uttar Pradesh and Bihar, while its ghats in cities like Varanasi are renowned for their spiritual significance.
+
+To the west, the vast Thar Desert of Rajasthan boasts golden sand dunes, ancient forts, and palaces that stand as a testament to India’s royal past. The cities of Jaipur, Udaipur, and Jodhpur are steeped in history, with their grand palaces, intricate architecture, and colorful markets. The vibrant festivals and traditional dances of this region are as enchanting as the landscape itself.
+
+Moving eastward, the tea gardens of Assam, the misty hills of Meghalaya, and the lush forests of Arunachal Pradesh offer a different kind of beauty. The northeastern states are known for their biodiversity, with rare flora and fauna, as well as indigenous cultures that have preserved their way of life for centuries. The Kaziranga National Park, home to the endangered one-horned rhinoceros, is a prime example of India’s commitment to wildlife conservation.
+
+Southern India presents yet another facet of the country’s beauty. The backwaters of Kerala, with their tranquil lagoons and houseboats, provide a serene escape from the hustle and bustle of city life. The Western Ghats, a UNESCO World Heritage site, are rich in biodiversity and home to stunning waterfalls, hill stations like Ooty and Munnar, and a wide array of wildlife. The temples of Tamil Nadu, such as the Meenakshi Temple in Madurai and the Brihadeeswarar Temple in Thanjavur, stand as architectural marvels, showcasing India’s deep spiritual roots and artistic achievements.
+
+India’s coastal beauty is equally captivating. The beaches of Goa, with their golden sands and laid-back vibe, attract tourists from around the world. Further south, the coastal state of Karnataka is home to beautiful beaches like Gokarna, while the Andaman and Nicobar Islands offer crystal-clear waters and vibrant coral reefs, making them a haven for divers and nature enthusiasts.
+
+India’s beauty isn’t just limited to its landscapes; it also lies in the rich tapestry of its culture, traditions, and people. With over 2,000 distinct ethnic groups and more than 1,600 languages spoken, India is a true melting pot of cultures. Each region has its own festivals, music, dance forms, and cuisine, creating a vibrant and colorful cultural landscape. Festivals like Diwali, Holi, and Durga Puja are celebrated with grandeur and joy, drawing people from all walks of life into a shared sense of community.
+
+Furthermore, India’s spiritual beauty is undeniable. As the birthplace of Hinduism, Buddhism, Jainism, and Sikhism, the country is dotted with sacred sites, pilgrimage routes, and ancient temples. Cities like Varanasi, Rishikesh, and Bodh Gaya hold profound spiritual significance, drawing seekers of enlightenment and peace from across the globe.
+
+In essence, India is a land where natural beauty, cultural diversity, and spiritual richness come together to create an experience that is both profound and deeply captivating. Its beauty is not just in its landscapes but in its ability to touch the soul of anyone who visits.
+EOF
+
+cp article.txt original_article.txt
